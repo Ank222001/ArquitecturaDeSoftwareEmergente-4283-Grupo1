@@ -303,6 +303,17 @@
 
 ### 2.3.2. User Task Matrix
 
+| **Tareas Identificadas**                    | **Cuidadores Importancia** | **Cuidadores Frecuencia** | **Educadores Importancia** | **Educadores Frecuencia** |
+|---------------------------------------------|-----------------------------|----------------------------|-----------------------------|----------------------------|
+| Motivar la comunicación                     | Alta                        | Alta                       | Alta                        | Alta                       |
+| Practicar lenguaje de señas                 | Alta                        | Media                      | Alta                        | Alta                       |
+| Promover la autonomía comunicativa          | Alta                        | Alta                       | Alta                        | Alta                       |
+| Adaptar el entorno para comunicarse         | Alta                        | Media                      | Alta                        | Alta                       |
+| Hacer seguimiento al progreso comunicativo  | Alta                        | Media                      | Alta                        | Alta                       |
+| Buscar herramientas de apoyo                | Alta                        | Media                      | Alta                        | Media                      |
+| Coordinar con instituciones                 | Media                       | Media                      | Alta                        | Alta                       |
+| Recibir capacitación                        | Alta                        | Baja                       | Alta                        | Media                      |
+
 ### 2.3.3. User Journey Mapping
 
 ### 2.3.4. Empathy Mapping
