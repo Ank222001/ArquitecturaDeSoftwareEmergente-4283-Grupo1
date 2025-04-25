@@ -228,6 +228,26 @@
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
+**AFRONTAR LAS FORTALEZAS (de la competencia):**
+
+* Respaldar la innovación académica de SignAloud con alianzas locales: colaboraciones con universidades peruanas para co-desarrollar y validar nuevas versiones del guante.
+* Igualar la precisión de SignAll mediante un ciclo ágil de mejora continua: implementar feedback de campo y tests en escuelas de LSP para refinar los modelos de Deep Learning.
+
+**APROVECHAR LAS DEBILIDADES (de la competencia):**
+
+* Prototipo listo para producción vs. investigación en prototipo: fabricar lotes iniciales del guante y comercializarlos localmente, aprovechando que SignAloud aún no está en mercado.
+* Simplicidad de implementación: usar un solo dispositivo IoT (el guante) sin necesidad de cámaras adicionales ni setups complejos como SignAll o MotionSavvy.
+
+**OPORTUNIDADES Y AMENAZAS DE LA COMPETENCIA:**
+
+**Oportunidades:**
+* Acceder a subvenciones y programas de inclusión social del gobierno peruano y ONGs, que buscan financiar tecnología para discapacidad.
+* Escalar a otros idiomas de señas de Latinoamérica, aprovechando la experiencia piloto en Perú como caso de éxito.
+
+**Amenazas:**
+* Soluciones de software puro basadas en visión por computadora que prescinden de hardware y pueden ser más económicas.
+* Grandes empresas tecnológicas con presupuestos mayores podrían lanzar apps integradas (voz + señas) apoyadas en sus plataformas globales.
+
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
