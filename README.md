@@ -1,6 +1,69 @@
 # Project-report
+<p align="center">
+    <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
+    <strong>Ingeniería de Software</strong><br>
+    <strong>Arquitecturas De Software Emergentes - 4283</strong><br>
+    <strong>Profesor: Royer Edelwer Rojas Malasquez</strong><br>
+    <br>INFORME
+</p>
+<p align="center">
+    <strong>Startup:  TechSign</strong><br>
+    <strong>Producto:  GloveTalk</strong>
+</p>
+    <h3 align="center">Team Members:</h3>
+    </div>
+<div>
+     <table align="center">
+        <tr>
+            <th style="text-align:center;">Member</th>
+            <th style="text-align:center;">Code</th>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+	<tr>
+            <td>Llacchua Peralta, Joseph Ulysses</td>
+            <td>u202317002</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td> </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+         <tr>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
+</div>
 
+<p align="center">
+    <strong>2025</strong>
+</p>
 
+<br>
+
+# Registro de Versiones del Informe
+<table>
+        <tr>
+            <th style="text-align:center;">Versión</th>
+            <th style="text-align:center;">Fecha</th>
+            <th style="text-align:center;">Autor</th>
+            <th style="text-align:center;">Descripción de la modificación</th>
+        </tr>
+        <tr>
+            <td align = "center">TB1</td>
+            <td>18/04/2025</td>
+            <td> Grupo 1
+            <td>Se agregó el contenido del capítulo 1, apartados 1.1, 1.2 y 1.3; el contenido del capítulo 2, apartados 2.1, 2.2, 2.3, 2.4; el contenido del capítulo 3, apartados 3.1, 3.2, 3.3 y 3.4; el contenido del capítulo 4, apartados 4.1 y 4.2</td>
+        </tr>
+</table>
+<br>
 
 # Tabla de Contenidos
 
