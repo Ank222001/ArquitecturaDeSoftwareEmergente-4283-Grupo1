@@ -252,6 +252,47 @@
 
 ### 2.2.1. Diseño de entrevistas
 
+1. **Datos generales**
+   1. ¿Cuál es su nombre?
+   2. ¿Cuántos años tiene?
+   3. ¿En qué ciudad y distrito reside?
+   4. ¿A qué se dedica actualmente?
+
+2. **Segmento 1: Personas con discapacidad auditiva y del habla (Cuidadores)**
+   1. ¿Cuál es su relación con la persona con discapacidad auditiva o del habla que cuida?
+   2. ¿Qué estrategias o métodos utiliza actualmente para comunicarse con ella?
+   3. ¿En qué tipo de situaciones suele haber más dificultades de comunicación (visitas médicas, trámites, tiendas, transporte, etc.)?
+   4. ¿Con qué tipo de personas se presentan mayores barreras (familiares, profesores, personal de atención al cliente, desconocidos)?
+   5. ¿Utilizan actualmente algún tipo de tecnología o aplicación para facilitar la comunicación? ¿Cuál ha sido su experiencia?
+   6. ¿Qué limitaciones ha encontrado en las herramientas existentes para ayudar en la comunicación?
+   7. ¿Ha presenciado o vivido junto con la persona bajo su cuidado situaciones de exclusión o malentendidos debido a la barrera del lenguaje?
+   8. ¿Cómo se sienten usted y la persona que cuida cuando no pueden hacerse entender en ciertos contextos?
+   9. ¿Considera que la sociedad en general está preparada para interactuar adecuadamente con personas con discapacidad auditiva o del habla?
+   10. ¿Cree que esta situación afecta las oportunidades educativas, sociales o laborales de la persona que cuida?
+   11. ¿Qué tipo de funcionalidades esperaría de un dispositivo o aplicación para facilitar la comunicación?
+   12. ¿Qué tipo de mensajes o expresiones serían más útiles que se pudieran traducir automáticamente con la ayuda de un dispositivo?
+   13. ¿En qué espacios le gustaría que esta herramienta sea especialmente útil (hospitales, bancos, centros educativos, etc.)?
+
+3. **Segmento 2: Instituciones educativas especializadas**
+   1. ¿Cuál es su rol dentro de la institución?
+   2. ¿Cuántos estudiantes con discapacidad auditiva o del habla atienden en promedio?
+   3. ¿Qué métodos utilizan actualmente para facilitar la enseñanza del lenguaje de señas?
+   4. ¿Han utilizado tecnología para mejorar la comunicación o el aprendizaje de sus estudiantes? ¿Cuál fue su experiencia?
+   5. ¿Qué dificultades enfrentan sus estudiantes al interactuar con personas fuera del entorno institucional?
+   6. ¿Considera que el lenguaje de señas se enseña de forma adecuada en los niveles educativos actuales?
+   7. ¿Qué limitaciones tienen actualmente en cuanto a recursos tecnológicos para mejorar sus procesos de enseñanza?
+   8. ¿Qué tipo de dispositivo o aplicación cree que sería útil para reforzar la enseñanza del lenguaje de señas?
+   9. ¿Le gustaría contar con una herramienta que permita evaluar en tiempo real la expresión en señas de los estudiantes?
+
+4. **Validación de la propuesta**
+   1. Se presenta al entrevistado la idea del proyecto GloveTalk y sus principales funcionalidades (traducción en tiempo real de señas a texto o voz y viceversa, uso de IA para mejorar la precisión, compatibilidad con dispositivos móviles y wearables).
+   2. ¿Qué le parece la propuesta de GloveTalk?
+   3. ¿Cree que podría ser útil en su vida diaria o en su entorno educativo/laboral?
+   4. ¿Alguna vez ha usado una tecnología similar?
+   5. ¿Cuál es el aspecto que más le llama la atención de esta propuesta?
+   6. ¿Qué sugerencias o mejoras le gustaría que tenga el dispositivo o la aplicación?
+   7. ¿En qué escenarios le gustaría poder utilizar esta solución?
+
 ### 2.2.2. Registro de entrevistas
 
 ### 2.2.3. Análisis de entrevistas
